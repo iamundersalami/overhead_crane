@@ -1,0 +1,26 @@
+SD- switch down NO
+SU- switch up NO
+SF- switch forward NO
+SB- switch backward NO
+SR- switch right NO
+SL- switch left NO
+
+DD- down detector NC
+DU- up detector NC
+DF- forward detector NC
+DB- backward detector NC
+DR- right detector NC
+DL- left detector NC
+
+AA- malfunction NC
+
+M1D- down motor 1 NO
+M1U- up motor 1 NO
+
+M2F- forward motor 2 NO
+M2B- backward motor 2 NO
+
+M3L- left motor 3 NO
+M3R- right motor 3 NO
+
+

@@ -1,0 +1,26 @@
+SD- przycisk dół NO
+SU- przycisk góra NO
+SF- przycisk przód NO
+SB- przycisk tył NO
+SR- przycisk prawo NO
+SL- przycisk lewo NO
+
+DD- czujka dół NC
+DU- czujka góra NC
+DF- czujka przód  NC
+DB- czujka tył NC
+DR- czujka prawo NC
+DL- czujka lewo NC
+
+AA- awaria NC
+
+M1D- silnik 1 dół 1 NO
+M1U- silnik 1 góra NO
+
+M2F- silnik 2 przód NO
+M2B- silnik 2 tył NO
+
+M3L- silnik 3 lewo NO
+M3R- silnik 3 prawo NO
+
+

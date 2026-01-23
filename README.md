@@ -1,4 +1,4 @@
 # overhead_crane
-ENG: Overhead crane program, made in Ladder language for PLC controllers. It is very simple, and is intended to demonstrate my knowledge of Ladder and controller systems.
+ENG: Overhead crane program, made in Ladder language for PLC controllers. This project is primarily intended to demonstrate my skills in operating and programming PLC controllers, my knowledge of Ladder language and electrical systems. Even though the project is not perfect, it was done "on the fly" due to the inability to use serious programmes such as TiaPortal and E-plan.
 
-PL: Program suwnicy, wykonany w języku Ladder dla sterowników PLC. Jest bardzo prosty, i służy do tego, żeby pokazać moją wiedze o Ladder i systemach sterownikowych.
+PL: Program suwnicy, wykonany w języku Ladder dla sterowników PLC. Ten projekt przede wszystkim ma za zadanie pokazać moje umiejętności w obsłudze i programowaniu sterowników PLC, wiedzę w języku Ladder oraz wiedze w systemach elektrycznych, nawet mimo to, że projekt nie jest perfekcyjny, był zrobiony "na kolanach", ze względu na brak możliwości korzystania z poważnych programów typu TiaPortal oraz E-plan.
